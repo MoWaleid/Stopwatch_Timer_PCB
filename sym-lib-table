@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN74HC32N")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SN74HC32N.kicad_sym")(options "")(descr ""))
+  (lib (name "DS04-254-1L-08BK")(type "KiCad")(uri "${KIPRJMOD}/Symbols/DS04-254-1L-08BK.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC04N")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SN74HC04N.kicad_sym")(options "")(descr ""))
+  (lib (name "CD4075BE")(type "KiCad")(uri "${KIPRJMOD}/Symbols/CD4075BE.kicad_sym")(options "")(descr ""))
+  (lib (name "CD4023BE")(type "KiCad")(uri "${KIPRJMOD}/Symbols/CD4023BE.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC08N")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SN74HC08N.kicad_sym")(options "")(descr ""))
+  (lib (name "BUTT-2")(type "KiCad")(uri "${KIPRJMOD}/Symbols/BUTT-2.kicad_sym")(options "")(descr ""))
+)
