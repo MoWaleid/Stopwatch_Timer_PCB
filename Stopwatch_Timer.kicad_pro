@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 1.0,
-          "height": 1.708,
-          "width": 1.708
+          "height": 2.0,
+          "width": 2.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -527,7 +527,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "C:/Users/yt517/OneDrive/Documents/Desktop/Stopwatch_Timer.dsn",
+      "specctra_dsn": "../../Downloads/Stopwatch_Timer3.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
