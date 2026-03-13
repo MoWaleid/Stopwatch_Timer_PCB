@@ -7,9 +7,9 @@ A hardware-defined digital timing system engineered using **discrete logic ICs**
 
 ## Core Features
 * **Dual Mode:** Stopwatch (00:00 to Target) and Timer (Start Time to 00:00).
-* **MM:SS Display:** 4-digit multiplexed 7-segment output.
+* **MM:SS Display:** 4-digit 7-segment output.
 * **Hardware Control:** Dedicated tactile buttons for **Set**, **Start/Pause**, and **Reset**.
-* **Industrial Interfacing:** Transistor-driven relay module for 220V appliance automation.
+* **Industrial Interfacing:** Relay module for 220V appliance automation.
 
 ---
 
@@ -24,7 +24,7 @@ A hardware-defined digital timing system engineered using **discrete logic ICs**
 
 ## Design & Implementation
 1.  **Simulation:** Full functional validation in **Proteus** to verify synchronous timing and gate-level logic.
-2.  **Schematic Capture:** Professional circuit design in **KiCad**, focusing on logical hierarchy and power distribution.
+2.  **Schematic Capture:** Professional circuit design in **KiCad**.
 3.  **PCB Layout:** Designed a production-ready PCB in **KiCad**, implementing specific trace widths for high-voltage safety and signal integrity.
 
 ---
